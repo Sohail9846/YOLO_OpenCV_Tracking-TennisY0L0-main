@@ -18,7 +18,6 @@ class CourtLineDetector:
 
     def predict(self, image):
 
-    
         image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         image_tensor = self.transform(image_rgb).unsqueeze(0)
         with torch.no_grad():
