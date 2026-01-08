@@ -141,4 +141,4 @@ MIT License — feel free to use, modify, and share.
 
 ## 📬 Contact
 
-For queries or collaboration, reach out at [prabalcaptprice@gmail.com](prabalcaptprice@gmail.com)
+For queries or collaboration, reach out at [sohail.ansari2023@vitstudent.ac.in](sohail.ansari2023@vitstudent.ac.in)
