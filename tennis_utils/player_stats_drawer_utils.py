@@ -18,7 +18,7 @@ def draw_player_stats(output_video_frames,player_stats):
         shapes = np.zeros_like(frame, np.uint8)
 
         width=350
-        height=230
+        height=240
 
         
         
