@@ -12,8 +12,6 @@ from tennis_utils import (
     measure_xy_distance
 )
 
-
-
 class MiniCourt():
     def __init__(self,frame):
         self.drawing_rectangle_width = 250
