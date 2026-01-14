@@ -19,8 +19,6 @@ def draw_player_stats(output_video_frames,player_stats):
 
         width=350
         height=240
-
-        
         
         start_x = frame.shape[1]-400
         start_y = frame.shape[0]-500
